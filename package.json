@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "vite": "^2.9.5"
+  },
+  "dependencies": {
+    "gitmoji-cli": "^5.0.0"
   }
 }
